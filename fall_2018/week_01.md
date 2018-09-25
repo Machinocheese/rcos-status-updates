@@ -4,7 +4,7 @@
 
 ## This Week's Plan
 
-> This week, we'll most likely continue finalizing our design decisions, as well as potentially starting to code.
+> This week, we'll most likely continue finalizing our design decisions, as well as potentially begin coding the OS.
 
 ## Anything Blocking?
 
