@@ -1,10 +1,10 @@
 ## Last Week's Accomplishments
 
-> Last week, BASA presented our project along with a demo for the RCOS presentation. I've also successfully managed to compile from C into kernel code and to actually boot the code, so that's a success. I've also taken a look over reading in input and printing properly to the new screen.
+> Last week, I didn't do much but continue my designs on the keyboard driver. I was largely preoccupied with Thanksgiving.
 
 ## This Week's Plan
 
-> This week, I plan on finishing up the designs for the keyboard driver and seeing how close I can get to reading input properly and displaying it. The final goal is ultimately something like an echo driver.
+> This week, I plan on continuing my driver. I haven't found enough evidence to prove that it isn't necessary, so I'll most likely continue doing that. I'll also continue looking at custom print functions.
 
 ## Anything Blocking?
 
